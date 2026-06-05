@@ -1,0 +1,1 @@
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/content_scripts/chatgpt/chatgpt-deep-research-convert-to-pdf-fte.js
